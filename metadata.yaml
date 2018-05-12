@@ -1,0 +1,30 @@
+_repo: The-Mentor--Holland-v.-2-Num.-6-Serial-No.-58May-1-1914_43257
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43257-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Elmendorf, Dwight L. (Dwight Lathrop)
+    alias: Elmendorf, Dwight
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '45347'
+    url: http://www.gutenberg.org/2009/agents/45347
+description: ''
+gutenberg_bookshelf: The Mentor
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43257'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands'
+- !lcc 'DJ'
+title: 'The Mentor: Holland, v. 2, Num. 6, Serial No. 58
+
+  May 1, 1914'
+url: http://www.gutenberg.org/ebooks/43257
