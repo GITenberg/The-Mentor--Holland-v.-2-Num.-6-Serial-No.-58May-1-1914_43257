@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '45347'
     url: http://www.gutenberg.org/2009/agents/45347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43257#The-Mentor--Holland-v.-2-Num.-6-Serial-No.-58May-1-1914
 gutenberg_bookshelf: The Mentor
 gutenberg_issued: '2013-07-20'
 gutenberg_type: Text
